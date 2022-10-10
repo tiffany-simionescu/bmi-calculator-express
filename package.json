@@ -1,0 +1,23 @@
+{
+  "name": "bmi-calculator-express",
+  "version": "1.0.0",
+  "description": "A BMI Calculator using Express.js.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffany-simionescu/bmi-calculator-express.git"
+  },
+  "author": "Tiffany Simionescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffany-simionescu/bmi-calculator-express/issues"
+  },
+  "homepage": "https://github.com/tiffany-simionescu/bmi-calculator-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
